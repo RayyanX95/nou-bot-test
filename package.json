@@ -1,0 +1,21 @@
+{
+  "name": "bot-ayat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.mjs",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "esm": "^3.2.25",
+    "node-fetch": "^3.3.0",
+    "puppeteer": "^19.7.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
